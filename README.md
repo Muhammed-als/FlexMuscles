@@ -1,5 +1,7 @@
 # FLEXMUSCLES — Interactive Workout Studio & Exercise Directory
 
+[Visit FLEXMUSCLES](https://Muhammed-als.github.io/FlexMuscles/)
+
 An intuitive, lightweight, and responsive frontend-only workout explorer. Navigate a highly structured, hierarchical directory of muscle groups to discover curated YouTube tutorials, then **add, edit, and delete** your own exercises. Everything is saved locally in your browser.
 
 ![FLEXMUSCLES](https://img.shields.io/badge/React-18-22d3ee) ![Vite](https://img.shields.io/badge/Vite-8-646cff) ![Tailwind](https://img.shields.io/badge/Tailwind-3-38bdf8)

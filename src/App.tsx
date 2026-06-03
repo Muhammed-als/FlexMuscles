@@ -190,7 +190,7 @@ export default function App() {
             </div>
             <div>
               <h1 className="font-display text-xl font-extrabold leading-none tracking-tight text-white">
-                FLEX<span className="text-gradient">US</span>
+                FLEX<span className="text-gradient">MUSCLES</span>
               </h1>
               <p className="text-[11px] font-medium uppercase tracking-[0.25em] text-slate-500">
                 Studio Directory System

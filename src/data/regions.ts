@@ -1,9 +1,5 @@
 import type { Exercise, Region, BodyRegion } from '../types'
 
-/**
- * Your exact custom list of selectable muscle regions.
- * Grouped strictly into Parent Groups and Child Sub-regions.
- */
 export const REGIONS: Region[] = [
   // ---------------- CHEST ----------------
   {
