@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/types.ts","./src/components/confirmdialog.tsx","./src/components/exercisecard.tsx","./src/components/exercisemodal.tsx","./src/components/exercisepanel.tsx","./src/data/musclemap.ts","./src/data/regions.ts","./src/hooks/useexercises.ts"],"version":"5.9.3"}
